@@ -1,11 +1,6 @@
 
 <!-- # EEG Foundation Challenge: From Cross-Task to Cross-Subject EEG Decoding -->
-<div style="display: flex; align-items: center;">
-    <img src="https://eeg2025.github.io/assets/img/logo.png" alt="logo" style="width: 150px;">
-    <h1 style="display: inline-block;">
-      <span style="font-weight: bold;">EEG Foundation Challenge:</span> From Cross-Task to Cross-Subject EEG Decoding
-    </h1>
-</div>
+
 
 The 2025 EEG Foundation Challenge: From Cross-Task to Cross-Subject EEG Decoding is a biosignal challenge accepted to the [**NeurIPS 2025 Competition Track**](https://neurips.cc/Conferences/2025/CallForCompetitions). This competition aims to advance the field of EEG decoding by addressing two critical challenges:
 
@@ -79,65 +74,57 @@ This competition aims to address these challenges by:
 
 ## Organizing Institutions
 
-<div style="padding: 20px; text-align: center;">
-  <div style="display: flex; justify-content: space-around; align-items: center; flex-wrap: wrap; margin-bottom: 20px;">
-    <img src="https://eeg2025.github.io/assets/logos/lisn.png" style="max-width: 30%; margin: 10px;" alt="LISN Logo" />
-    <img src="https://eeg2025.github.io/assets/logos/ucsd.png" style="max-width: 30%; margin: 10px;" alt="UCSD Logo" />
-    <img src="https://eeg2025.github.io/assets/logos/donders.png" style="max-width: 30%; margin: 10px;" alt="Radboud University Logo" />
-  </div>
-  <div style="display: flex; justify-content: space-around; align-items: center; flex-wrap: wrap; margin-bottom: 20px;">
-    <img src="https://eeg2025.github.io/assets/logos/ups.png" style="max-width: 30%; margin: 10px;" alt="Université Paris-Saclay Logo" />
-    <img src="https://eeg2025.github.io/assets/logos/inria.png" style="max-width: 30%; margin: 10px;" alt="Inria Logo" />
-    <img src="https://eeg2025.github.io/assets/logos/icm.png" style="max-width: 30%; margin: 10px;" alt="Paris Brain Institute (Institut du Cerveau – ICM) Logo" />
-  </div>
-  <div style="display: flex; justify-content: space-around; align-items: center; flex-wrap: wrap; margin-bottom: 20px;">
-    <img src="https://eeg2025.github.io/assets/logos/chalearn.png" style="max-width: 30%; margin: 10px;" alt="ChaLearn Logo" />
-    <img src="https://eeg2025.github.io/assets/logos/mind_intitute.png" style="max-width: 30%; margin: 10px;" alt="Child Mind Institute Logo" />
-    <img src="https://eeg2025.github.io/assets/logos/nki.jpg" style="max-width: 30%; margin: 10px;" alt="Nathan Kline Institute for Psychiatric Research Logo" />
-  </div>
-  <div style="display: flex; justify-content: space-around; align-items: center; flex-wrap: wrap; margin-bottom: 20px;">
-    <img src="https://eeg2025.github.io/assets/logos/meta.png" style="max-width: 30%; margin: 10px;" alt="Meta Logo" />
-    <img src="https://eeg2025.github.io/assets/logos/ben_logo.png" style="max-width: 30%; margin: 10px;" alt="Ben-Gurion University of the Negev Logo" />
-    <img src="https://eeg2025.github.io/assets/logos/ufabc.png" style="max-width: 30%; margin: 10px;" alt="Federal University of ABC (UFABC) Logo" />
-  </div>
-<div style="display: flex; justify-content: space-around; align-items: center; flex-wrap: wrap; margin-bottom: 20px;">
-    <img src="https://eeg2025.github.io/assets/logos/cneuro.jpg" style="max-width: 10%; margin: 10px;" alt="Cuban Neuroscience Center (CNEURO) Logo" />
-    <img src="https://eeg2025.github.io/assets/logos/UESTC.png" style="max-width: 30%; margin: 10px;" alt="University of Electronic Science and Technology of China Logo" />
-    <img src="https://eeg2025.github.io/assets/logos/cnrs.png" style="max-width: 10%; margin: 10px;" alt="CNRS Centre National de la Recherche Scientifique Logo" />
-    <img src="https://eeg2025.github.io/assets/logos/mcgill.png" style="max-width: 25%; margin: 10px;" alt="McGill University Logo" />
-  </div>
-</div>
+<!-- Row 1 -->
+|  |  |  |  |
+|:--:|:--:|:--:|:--:|
+| ![LISN](https://eeg2025.github.io/assets/logos/lisn.png) | ![UC San Diego](https://eeg2025.github.io/assets/logos/ucsd.png) | ![Donders Institute](https://eeg2025.github.io/assets/logos/donders.png) | ![Université Paris-Saclay](https://eeg2025.github.io/assets/logos/ups.png) |
+| LISN | UC San Diego | Donders Institute (Radboud Univ.) | Université Paris-Saclay |
+
+<!-- Row 2 -->
+|  |  |  |  |
+|:--:|:--:|:--:|:--:|
+| ![Inria](https://eeg2025.github.io/assets/logos/inria.png) | ![ICM](https://eeg2025.github.io/assets/logos/icm.png) | ![ChaLearn](https://eeg2025.github.io/assets/logos/chalearn.png) | ![Child Mind Institute](https://eeg2025.github.io/assets/logos/mind_intitute.png) |
+| Inria | Paris Brain Institute (ICM) | ChaLearn | Child Mind Institute |
+
+<!-- Row 3 -->
+|  |  |  |  |
+|:--:|:--:|:--:|:--:|
+| ![NKI](https://eeg2025.github.io/assets/logos/nki.jpg) | ![Meta](https://eeg2025.github.io/assets/logos/meta.png) | ![Ben-Gurion Univ.](https://eeg2025.github.io/assets/logos/ben_logo.png) | ![UFABC](https://eeg2025.github.io/assets/logos/ufabc.png) |
+| Nathan Kline Institute | Meta | Ben-Gurion University of the Negev | UFABC |
+
+<!-- Row 4 -->
+|  |  |  |  |
+|:--:|:--:|:--:|:--:|
+| ![CNEURO](https://eeg2025.github.io/assets/logos/cneuro.jpg) | ![UESTC](https://eeg2025.github.io/assets/logos/UESTC.png) | ![CNRS](https://eeg2025.github.io/assets/logos/cnrs.png) | ![McGill](https://eeg2025.github.io/assets/logos/mcgill.png) |
+| Cuban Neuroscience Center (CNEURO) | UESTC | CNRS | McGill University |
+
 
 ## Core Coordinators
 
-<div style="display: flex; justify-content: space-around; align-items: flex-start; flex-wrap: wrap; margin-bottom: 20px;">
-  <div style="max-width: 160px; text-align: center; margin: 10px;">
-      <a href="https://bruaristimunha.github.io/" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: inherit;">
-          <img src="https://eeg2025.github.io/assets/people/bruno.png" style="height: 100%; max-height: 135px; border-radius: 8px;" alt="Bruno Aristimunha" />
-          <div style="font-weight: bold; margin-top: 10px;">Bruno Aristimunha</div>
-      </a>
-      <div style="font-size: 0.95em;">INRIA, University of Paris-Saclay</div>
-  </div>
-    <div style="max-width: 160px; text-align: center; margin: 10px;">
-        <img src="https://eeg2025.github.io/assets/people/dung.jpeg" style="height: 100%; max-height: 135px; border-radius: 8px;" alt="Dung Truong" />
-        <div style="font-weight: bold; margin-top: 10px;">Dung Truong</div>
-        <div style="font-size: 0.95em;">Swartz Center for Computational Neuroscience, UCSD</div>
-    </div>
-    <div style="max-width: 160px; text-align: center; margin: 10px;">
-      <a href="https://neurotechlab.socsci.ru.nl/author/pierre-guetschel/" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: inherit;">
-        <img src="https://eeg2025.github.io/assets/people/pierre.jpeg" style="height: 100%; max-height: 135px; border-radius: 8px;" alt="Pierre Guetschel" />
-        <div style="font-weight: bold; margin-top: 10px;">Pierre Guetschel</div>
-        <div style="font-size: 0.95em;">Donders Institute, Radboud University</div>
-      </a>
-    </div>
-    <div style="max-width: 160px; text-align: center; margin: 10px;">
-        <img src="https://eeg2025.github.io/assets/people/seyed.jpeg" style="height: 100%; max-height: 135px; border-radius: 8px;" alt="Seyed Yahya Shirazi" />
-        <div style="font-weight: bold; margin-top: 10px;">Seyed Yahya Shirazi</div>
-        <div style="font-size: 0.95em;">UC San Diego</div>
-    </div>
-    <div style="max-width: 160px; text-align: center; margin: 10px;">
-        <img src="https://eeg2025.github.io/assets/people/arnaud.jpg" style="height: 100%; max-height: 135px; border-radius: 8px;" alt="Arnaud Delorme" />
-        <div style="font-weight: bold; margin-top: 10px;">Arnaud Delorme</div>
-        <div style="font-size: 0.95em;">CNRS, IONS, UCSD</div>
-    </div>
-</div>
+|  |  |  |  |  |
+|:--:|:--:|:--:|:--:|:--:|
+| [![Bruno Aristimunha](https://eeg2025.github.io/assets/people-h180/bruno.png)](https://bruaristimunha.github.io/) | ![Sylvain Chevallier](https://eeg2025.github.io/assets/people-h180/sylvain.jpg) | [![Pierre Guetschel](https://eeg2025.github.io/assets/people-h180/pierre.jpeg)](https://neurotechlab.socsci.ru.nl/author/pierre-guetschel/) | ![Seyed Yahya Shirazi](https://eeg2025.github.io/assets/people-h180/seyed.jpeg) | ![Arnaud Delorme](https://eeg2025.github.io/assets/people-h180/arnaud.jpg) |
+| **[Bruno Aristimunha](https://bruaristimunha.github.io/)** | **[Sylvain Chevallier](https://sylvchev.github.io/)** | **[Pierre Guetschel](https://neurotechlab.socsci.ru.nl/author/pierre-guetschel/)** | **[Seyed Yahya Shirazi](https://neuromechanist.github.io/)** | **[Arnaud Delorme](https://arnauddelorme.com/)** |
+| INRIA, Univ. Paris-Saclay | LISN, INRIA TAU, CNRS, A&O Univ. Paris-Saclay | Donders Institute, Radboud Univ. | UC San Diego | CNRS, IONS, UCSD |
+
+
+## Coordinators
+
+|  |  |  |  |  |
+|:--:|:--:|:--:|:--:|:--:|
+| ![Alexandre R. Franco](https://eeg2025.github.io/assets/people-h180/alexandre_franco.png) | ![Amit Majumdar](https://eeg2025.github.io/assets/people-h180/amit_majumdar.jpg) | ![Aviv Dotan](https://eeg2025.github.io/assets/people-h180/aviv.jpg) | ![Dung Truong](https://eeg2025.github.io/assets/people-h180/dung.jpeg) | ![Alan Evans](https://eeg2025.github.io/assets/people-h180/evans_alan.png) |
+| **Alexandre R. Franco** | **Amit Majumdar** | **Aviv Dotan** | **Dung Truong** | **Alan Evans** |
+| Child Mind Institute, USA |UC San Diego, USA |  Ben-Gurion University of the Negev, Israel | ex-SCCN, UC San Diego, USA | McGill University, Canada |
+
+|  |  |  |  |  |
+|:--:|:--:|:--:|:--:|:--:|
+| ![Alexandre Gramfort](https://eeg2025.github.io/assets/people-h180/gramfort.jpg) | ![Isabelle Guyon](https://eeg2025.github.io/assets/people-h180/isabelle.jpg) | ![Jean-Remi King](https://eeg2025.github.io/assets/people-h180/king.png) | ![Marie-Constance Corsi](https://eeg2025.github.io/assets/people-h180/marie_constance_corsi.jpg) | ![Michael P. Milham](https://eeg2025.github.io/assets/people-h180/milham.jpg) |
+| **Alexandre Gramfort** | **Isabelle Guyon** | **Jean-Remi King** | **Marie-Constance Corsi** | **Michael P. Milham** |
+| Reality Labs, Meta, France | Google DeepMind; ChaLearn, USA | FAIR Brain & AI, Meta, France | Inria NERV; Paris Brain Institute (ICM), France | Child Mind Institute, USA |
+
+|  |  |  |  |
+|:--:|:--:|:--:|:--:|
+| ![Oren Shriki](https://eeg2025.github.io/assets/people-h180/oren.jpg) | ![Pedro A. Valdés-Sosa](https://eeg2025.github.io/assets/people-h180/pedro_valdes_sosa.jpg) | ![Scott Makeig](https://eeg2025.github.io/assets/people-h180/scott_makeig.jpg) | ![Terrence J. Sejnowski](https://eeg2025.github.io/assets/people-h180/terrence_sejnowski.jpg) |
+| **Oren Shriki** | **Pedro A. Valdés-Sosa** | **Scott Makeig** | **Terrence J. Sejnowski** | 
+| Ben-Gurion University of the Negev, Israel | Cuban Neuroscience Center (CNEURO); Joint China-Cuba Lab (UESTC) | SCCN; Institute for Neural Computation, UC San Diego, USA | UC San Diego; Salk Institute, USA |
+
