@@ -101,20 +101,21 @@ This competition aims to address these challenges by:
 
 ## Core Coordinators
 
-|  |  |  |  |  |
-|:--:|:--:|:--:|:--:|:--:|
-| [![Bruno Aristimunha](https://eeg2025.github.io/assets/people-h180/bruno.png)](https://bruaristimunha.github.io/) | ![Sylvain Chevallier](https://eeg2025.github.io/assets/people-h180/sylvain.jpg) | [![Pierre Guetschel](https://eeg2025.github.io/assets/people-h180/pierre.jpeg)](https://neurotechlab.socsci.ru.nl/author/pierre-guetschel/) | ![Seyed Yahya Shirazi](https://eeg2025.github.io/assets/people-h180/seyed.jpeg) | ![Arnaud Delorme](https://eeg2025.github.io/assets/people-h180/arnaud.jpg) |
-| **[Bruno Aristimunha](https://bruaristimunha.github.io/)** | **[Sylvain Chevallier](https://sylvchev.github.io/)** | **[Pierre Guetschel](https://neurotechlab.socsci.ru.nl/author/pierre-guetschel/)** | **[Seyed Yahya Shirazi](https://neuromechanist.github.io/)** | **[Arnaud Delorme](https://arnauddelorme.com/)** |
-| INRIA, Univ. Paris-Saclay | LISN, INRIA TAU, CNRS, A&O Univ. Paris-Saclay | Donders Institute, Radboud Univ. | UC San Diego | CNRS, IONS, UCSD |
+|  |  |  |  |  |  |
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| [![Bruno Aristimunha](https://eeg2025.github.io/assets/people-h180/bruno.png)](https://bruaristimunha.github.io/) | ![Sylvain Chevallier](https://eeg2025.github.io/assets/people-h180/sylvain.jpg) | ![Dung Truong](https://eeg2025.github.io/assets/people-h180/dung.jpeg) | [![Pierre Guetschel](https://eeg2025.github.io/assets/people-h180/pierre.jpeg)](https://neurotechlab.socsci.ru.nl/author/pierre-guetschel/) | ![Seyed Yahya Shirazi](https://eeg2025.github.io/assets/people-h180/seyed.jpeg) | ![Arnaud Delorme](https://eeg2025.github.io/assets/people-h180/arnaud.jpg) |
+| **[Bruno Aristimunha](https://bruaristimunha.github.io/)** | **[Sylvain Chevallier](https://sylvchev.github.io/)** | **Dung Truong** | **[Pierre Guetschel](https://neurotechlab.socsci.ru.nl/author/pierre-guetschel/)** | **[Seyed Yahya Shirazi](https://neuromechanist.github.io/)** | **[Arnaud Delorme](https://arnauddelorme.com/)** |
+| INRIA, Univ. Paris-Saclay | LISN, INRIA TAU, CNRS, A&O Univ. Paris-Saclay | ex-SCCN, UC San Diego, USA | Donders Institute, Radboud Univ. | UC San Diego | CNRS, IONS, UCSD |
 
 
 ## Coordinators
 
-|  |  |  |  |  |
-|:--:|:--:|:--:|:--:|:--:|
-| ![Alexandre R. Franco](https://eeg2025.github.io/assets/people-h180/alexandre_franco.png) | ![Amit Majumdar](https://eeg2025.github.io/assets/people-h180/amit_majumdar.jpg) | ![Aviv Dotan](https://eeg2025.github.io/assets/people-h180/aviv.jpg) | ![Dung Truong](https://eeg2025.github.io/assets/people-h180/dung.jpeg) | ![Alan Evans](https://eeg2025.github.io/assets/people-h180/evans_alan.png) |
-| **Alexandre R. Franco** | **Amit Majumdar** | **Aviv Dotan** | **Dung Truong** | **Alan Evans** |
-| Child Mind Institute, USA |UC San Diego, USA |  Ben-Gurion University of the Negev, Israel | ex-SCCN, UC San Diego, USA | McGill University, Canada |
+|     |     |     |     |
+|:---:|:---:|:---:|:---:|
+| ![Alexandre R. Franco](https://eeg2025.github.io/assets/people-h180/alexandre_franco.png) | ![Amit Majumdar](https://eeg2025.github.io/assets/people-h180/amit_majumdar.jpg) | ![Aviv Dotan](https://eeg2025.github.io/assets/people-h180/aviv.jpg) | ![Alan Evans](https://eeg2025.github.io/assets/people-h180/evans_alan.png) |
+| **Alexandre R. Franco** | **Amit Majumdar** | **Aviv Dotan** | **Alan Evans** |
+| Child Mind Institute, USA | UC San Diego, USA | Ben-Gurion University of the Negev, Israel | McGill University, Canada |
+
 
 |  |  |  |  |  |
 |:--:|:--:|:--:|:--:|:--:|
