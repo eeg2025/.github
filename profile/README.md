@@ -4,7 +4,7 @@
 
 The 2025 EEG Foundation Challenge: From Cross-Task to Cross-Subject EEG Decoding is a biosignal challenge accepted to the [**NeurIPS 2025 Competition Track**](https://neurips.cc/Conferences/2025/CallForCompetitions). This competition aims to advance the field of EEG decoding by addressing two critical challenges:
 
-1. **Cross-Task Transfer Learning**: Developing models that can effectively transfer knowledge from passive EEG tasks to active tasks
+1. **Cross-Task Transfer Learning**: Developing models that can effectively transfer knowledge from any cognitive EEG tasks to active task
 2. **Subject Invariant Representation**: Creating robust representations that generalize across different subjects while predicting clinical factors
 
 Check out the Challenge paper on arXiv: [10.48550/arXiv.2506.19141](https://arxiv.org/abs/2506.19141)
@@ -20,11 +20,25 @@ Check out the Challenge paper on arXiv: [10.48550/arXiv.2506.19141](https://arxi
 
 ### Challenge 1: Cross-Task Transfer Learning
 
-This supervised learning challenge combines regression and classification objectives. Participants will predict behavioral performance metrics (response time via regression and success rate via classification) from an active experimental paradigm (Contrast Change Detection, CCD) using EEG data from a passive paradigm (Surround Suppression, SuS). Teams can leverage multiple datasets and experimental paradigms to train their models, utilizing unsupervised or self-supervised pretraining to capture latent EEG representations, then fine-tuning for the specific supervised objectives to achieve generalization across subjects and cognitive paradigms. See the [Starter Kit](baseline.md) for more details.
+This supervised learning challenge consists of a regression task. 
+
+Participants will predict behavioral performance metrics (response time via regression and success rate via classification) from an active experimental paradigm (Contrast Change Detection, CCD) using EEG data. 
+We suggest that competitors use passive activities as a pretraining and fine-tune into the cognitive task CCD.
+
+We will use our trained model within the competition cluster to make inferences in the CCD set.
+
+Teams can leverage multiple datasets and experimental paradigms to train their models, utilizing unsupervised or self-supervised pretraining to capture latent EEG representations, then fine-tuning for the specific supervised objectives to achieve generalization across subjects and cognitive paradigms. See the [Starter Kit](baseline.md) for more details.
+
+*Note: The initial pretraining design of the SuS task is no longer mandatory because of the high number of participants and the low number of clusters.*
 
 ### Challenge 2: Psychopathology Factor Prediction (Subject Invariant Representation)
 
-This supervised regression challenge requires teams to predict four continuous psychopathology scores (p-factor, internalizing, externalizing, and attention) from EEG recordings across multiple experimental paradigms. Teams can employ unsupervised or self-supervised pretraining strategies to learn generalizable neural representations, then adapt these foundation models for the regression targets while maintaining robustness across different subjects and experimental conditions. See the [Starter Kit](baseline.md) for more details.
+This supervised regression challenge requires teams to predict four continuous psychopathology scores (p-factor~~, internalizing, externalizing, and attention~~) from EEG recordings across multiple experimental paradigms. 
+
+Teams can employ unsupervised or self-supervised pretraining strategies to learn generalizable neural representations, then adapt these foundation models for the regression targets while maintaining robustness across different subjects and experimental conditions. 
+
+See the [Starter Kit](baseline.md) for more details. *Note: Other factors (internalizing, externalizing, and attention) were removed from the challenge to streamline the execution phase.*
+
 
 ## Dataset
 
