@@ -31,9 +31,9 @@ Teams can leverage multiple datasets and experimental paradigms to train their m
 
 *Note: The initial pretraining design of the SuS task is no longer mandatory because of the high number of participants and the low number of clusters.*
 
-### Challenge 2: Psychopathology Factor Prediction (Subject Invariant Representation)
+### Challenge 2: Externalizing Factor Prediction (Subject Invariant Representation)
 
-This supervised regression challenge requires teams to predict four continuous psychopathology scores (p-factor~~, internalizing, externalizing, and attention~~) from EEG recordings across multiple experimental paradigms. 
+This supervised regression challenge requires teams to predict four continuous psychopathology scores (externalizing~~, internalizing, p-factor, and attention~~) from EEG recordings across multiple experimental paradigms. 
 
 Teams can employ unsupervised or self-supervised pretraining strategies to learn generalizable neural representations, then adapt these foundation models for the regression targets while maintaining robustness across different subjects and experimental conditions. 
 
