@@ -27,7 +27,7 @@ We suggest that competitors use passive activities as a pretraining and fine-tun
 
 We will use our trained model within the competition cluster to make inferences in the CCD set.
 
-Teams can leverage multiple datasets and experimental paradigms to train their models, utilizing unsupervised or self-supervised pretraining to capture latent EEG representations, then fine-tuning for the specific supervised objectives to achieve generalization across subjects and cognitive paradigms. See the [Starter Kit](baseline.md) for more details.
+Teams can leverage multiple datasets and experimental paradigms to train their models, utilizing unsupervised or self-supervised pretraining to capture latent EEG representations, then fine-tuning for the specific supervised objectives to achieve generalization across subjects and cognitive paradigms. See the [Starter Kit](https://github.com/eeg2025/startkit) for more details.
 
 *Note: The initial pretraining design of the SuS task is no longer mandatory because of the high number of participants and the low number of clusters.*
 
@@ -37,7 +37,7 @@ This supervised regression challenge requires teams to predict four continuous p
 
 Teams can employ unsupervised or self-supervised pretraining strategies to learn generalizable neural representations, then adapt these foundation models for the regression targets while maintaining robustness across different subjects and experimental conditions. 
 
-See the [Starter Kit](baseline.md) for more details. *Note: Other factors (internalizing, externalizing, and attention) were removed from the challenge to streamline the execution phase.*
+See the [Starter Kit](https://github.com/eeg2025/startkit) for more details. *Note: Other factors (internalizing, externalizing, and attention) were removed from the challenge to streamline the execution phase.*
 
 
 ## Dataset
